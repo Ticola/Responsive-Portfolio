@@ -1,0 +1,14 @@
+html, body, p {
+    font-family: 'Gidugu', sans-serif;
+    color: rgb(255, 255, 255);
+    background-color: rgb(218, 110, 96);
+    font-size: 20px;
+    }
+
+#navbarText {
+    font-size: 28px;
+}
+
+.navbar-brand {
+    font-size: 48px;
+}
